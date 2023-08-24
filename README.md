@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently focusing on back-end
 - 🌱 I’m currently learning Java language
-- 💬 languages: portuguese/english
+- 💬 languages: portuguese/english/spanish
 - 📫 Contact: joseph.alexanndry@hotmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsupeer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
