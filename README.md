@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently focusing on back-end
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Java language
 - 💬 languages: portuguese/english
 - 📫 Contact: joseph.alexanndry@hotmail.com
 
