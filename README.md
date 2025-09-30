@@ -8,7 +8,7 @@ Petrolina, Pernambuco, Brazil · Open to new opportunities
 
 ## About me
 
-I’m a software developer with **~2 years of professional experience** building **scalable, cloud‑first applications**. I specialize in **Python** on the backend, **Angular** on the frontend, and **AWS** for serverless and event‑driven architectures. I enjoy designing maintainable systems, automating tests, and solving real business problems.
+I’m a software developer with **~3 years of professional experience** building **scalable, cloud‑first applications**. I specialize in **Python** on the backend, **Angular** on the frontend, and **AWS** for serverless and event‑driven architectures. I enjoy designing maintainable systems, automating tests, and solving real business problems.
 
 * Current role: **System Developer @ Ritmocor** (Nov 2023 – Present)
 * Previous: **Data Scientist @ Compass UOL** (Dec 2022 – May 2023)
