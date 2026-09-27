@@ -1,64 +1,73 @@
-# Hi, I'm Joseph Alexanndry 👋
-**Software Engineer | Backend & Cloud (AWS) | Distributed Systems**
+# Hi, I'm Joseph Alexanndry aka basas
 
-Building scalable, resilient, and cloud-native solutions with a focus on high-performance backend architectures.
+**Software Engineer · Backend & Cloud (AWS) · Distributed Systems**
 
----
+I design and build scalable, resilient, and cloud-native software with a focus on high-performance backend systems, event-driven architectures, and pragmatic engineering practices.
 
-## 🚀 About Me
-I am a Software Engineer with **4+ years of professional experience** specializing in **Python, Java, and AWS**. My expertise lies in designing and implementing **Microservices and Serverless** architectures that solve complex business problems.
+## About me
 
-I am a strong advocate for **Infrastructure as Code (IaC)**, **Observability**, and **Automated Testing** as the foundation of any production-grade system. My recent focus has been on bridging the gap between Backend Engineering and **Generative AI (RAG)**.
+Software Engineer with **4+ years of professional experience** working with **Python, Java, and AWS**. I specialize in designing and implementing **microservices** and **serverless** solutions for complex business domains.
 
-- **Current Role:** Software Engineer @ Ritmocor
-- **Specialization:** Distributed Systems, Cloud Infrastructure (AWS), and Event-Driven Design.
-- **Passion:** Creating high-impact software, from local-first AI tools to global-scale fintech/health platforms.
+My engineering approach is grounded in **Infrastructure as Code**, **observability**, **automated testing**, and clear separation of responsibilities. More recently, I have been exploring the intersection of backend engineering and **Generative AI**, especially privacy-first **Retrieval-Augmented Generation (RAG)** applications.
 
----
+- **Focus:** Distributed systems, AWS cloud infrastructure, and event-driven design
+- **Strengths:** Backend architecture, API design, automation, and production reliability
+- **Interests:** Local-first AI tools, fintech and healthcare platforms, and high-impact software
 
-## 🛠 Tech Stack
+## Technical stack
 
-- **Languages:** Python (Expert), Java (Spring Boot), TypeScript/JavaScript.
-- **Cloud (AWS):** Lambda, API Gateway, DynamoDB, SQS/SNS (Messaging), CloudFormation (IaC), CloudWatch.
-- **Databases:** PostgreSQL, MySQL, DynamoDB, ChromaDB (Vector DB).
-- **Backend:** FastAPI, Flask, Node.js, RESTful APIs, Microservices, Serverless.
-- **DevOps/Tools:** Docker, CI/CD (GitHub Actions, CodePipeline), Linux Administration.
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, Java, TypeScript, JavaScript |
+| **Backend** | FastAPI, Flask, Spring Boot, Node.js, REST APIs, microservices, serverless |
+| **AWS** | Lambda, API Gateway, DynamoDB, SQS, SNS, CloudFormation, CloudWatch |
+| **Databases** | PostgreSQL, MySQL, DynamoDB, ChromaDB |
+| **DevOps** | Docker, GitHub Actions, AWS CodePipeline, Linux administration |
+| **Architecture** | Event-driven systems, distributed systems, Infrastructure as Code |
 
----
+## Featured projects
 
-## 🌟 Featured Project: Local RAG Chat
-**[View Repository](https://github.com/imsupeer/ragChat)**
+### [Local RAG Chat](https://github.com/imsupeer/ragChat)
 
-A production-style **Retrieval-Augmented Generation (RAG)** application designed for privacy-first AI workflows. 
-- **Tech:** FastAPI, LangChain, ChromaDB, Ollama, Next.js, and Docker.
-- **Key Impact:** Implemented a full ingestion/retrieval pipeline running 100% locally, featuring semantic search, vector persistence, and SSE-based token streaming.
+A production-style **Retrieval-Augmented Generation** application for privacy-first AI workflows.
 
----
+- Built an end-to-end ingestion and retrieval pipeline that runs entirely locally
+- Implemented semantic search and persistent vector storage with ChromaDB
+- Added SSE-based token streaming for responsive chat interactions
+- Built with FastAPI, LangChain, ChromaDB, Ollama, Next.js, and Docker
 
-## 📈 Selected Experience
+### [Open Insurance Platform](https://github.com/imsupeer/open-insurance-platform)
 
-- **Ritmocor — Software Engineer** (Nov 2023 – Nov 2025)
-  - Architecting serverless backend solutions on AWS, focusing on scalability and observability.
-  - Reduced deployment risks by implementing standardized CI/CD pipelines and automated testing suites.
+Open-source insurance platform project focused on building scalable and maintainable software for the insurance domain.
 
-- **Compass UOL — Data Engineer Intern** (Dec 2022 – May 2023)
-  - Developed automated ETL/ELT pipelines in Python for large-scale data processing in cloud environments.
+## Selected experience
 
-- **Inova Tech Jr. — Lead Project Developer** (Jun 2022 – Nov 2022)
-  - Led technical delivery and architecture decisions for high-impact local projects.
+### Ritmocor - Software Engineer
+**Nov 2023 – Nov 2025**
 
----
+- Architected serverless backend solutions on AWS with a focus on scalability, reliability, and observability
+- Standardized CI/CD workflows and automated testing to reduce deployment risk
+- Contributed to production-grade systems through clear architecture and maintainable engineering practices
 
-## 🧠 Philosophy & Practices
-- **Domain-Driven Design (DDD):** Building software that reflects business complexity.
-- **Reliability First:** Using TDD and comprehensive monitoring to ensure 24/7 stability.
-- **Continuous Evolution:** Always exploring the next frontier, from Astrophysics simulations to Generative AI.
+### Compass UOL - Data Engineer Intern
+**Dec 2022 – May 2023**
 
----
+- Developed automated ETL/ELT pipelines in Python for large-scale data processing in cloud environments
 
-## 📫 Let’s Connect
+### Inova Tech Jr. - Lead Project Developer
+**Jun 2022 – Nov 2022**
 
-- **LinkedIn:** [linkedin.com/in/josephalexanndry](https://www.linkedin.com/in/josephalexanndry)
-- **Email:** [joseph.alexanndry@hotmail.com](mailto:joseph.alexanndry@hotmail.com)
+- Led technical delivery and architecture decisions for high-impact local projects
 
-*"Software engineering is not just about writing code; it's about solving problems with elegance and scale."* 🚀
+## Engineering principles
+
+- **Domain-driven design:** Model software around the language and complexity of the business
+- **Reliability first:** Combine testing, observability, and automation to build dependable systems
+- **Continuous evolution:** Keep learning across backend engineering, cloud platforms, astrophysics, and Generative AI
+
+## Let’s connect
+
+- [LinkedIn](https://www.linkedin.com/in/josephalexanndry)
+- [Email](mailto:joseph.alexanndry@hotmail.com)
+
+> “Software engineering is not just about writing code; it’s about solving problems with elegance and scale.”
